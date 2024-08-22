@@ -1,0 +1,3 @@
+/Users/jorgedanielmagana/Source/Repos/CLionProjects/BasicGame/cmake-build-debug/CMakeFiles/BasicGame.dir
+/Users/jorgedanielmagana/Source/Repos/CLionProjects/BasicGame/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jorgedanielmagana/Source/Repos/CLionProjects/BasicGame/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+C:/Users/jdmag/CLionProjects/Week7Lab-PracticeAssignment/cmake-build-debug/CMakeFiles/Week7Lab_PracticeAssignment.dir
+C:/Users/jdmag/CLionProjects/Week7Lab-PracticeAssignment/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jdmag/CLionProjects/Week7Lab-PracticeAssignment/cmake-build-debug/CMakeFiles/rebuild_cache.dir

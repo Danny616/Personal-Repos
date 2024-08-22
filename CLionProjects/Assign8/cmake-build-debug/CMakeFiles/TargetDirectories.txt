@@ -1,0 +1,3 @@
+/Users/jorgedanielmagana/Source/Repos/CLionProjects/Assign8/cmake-build-debug/CMakeFiles/Assign8.dir
+/Users/jorgedanielmagana/Source/Repos/CLionProjects/Assign8/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jorgedanielmagana/Source/Repos/CLionProjects/Assign8/cmake-build-debug/CMakeFiles/rebuild_cache.dir

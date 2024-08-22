@@ -1,0 +1,61 @@
+﻿  SFMLTest.cpp
+C:\Users\jdmag\Source\Repos\VSProjects\SFMLTest\SFMLTest\SFMLTest.cpp(37,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jdmag\Source\Repos\VSProjects\SFMLTest\SFMLTest\SFMLTest.cpp(37,28): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\jdmag\Source\Repos\VSProjects\SFMLTest\SFMLTest\SFMLTest.cpp(51,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jdmag\Source\Repos\VSProjects\SFMLTest\SFMLTest\SFMLTest.cpp(53,65): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\jdmag\Source\Repos\VSProjects\SFMLTest\SFMLTest\SFMLTest.cpp(53,36): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\jdmag\Source\Repos\VSProjects\SFMLTest\SFMLTest\SFMLTest.cpp(104,36): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\jdmag\Source\Repos\VSProjects\SFMLTest\SFMLTest\SFMLTest.cpp(125,35): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\jdmag\Source\Repos\VSProjects\SFMLTest\SFMLTest\SFMLTest.cpp(134,43): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\jdmag\Source\Repos\VSProjects\SFMLTest\SFMLTest\SFMLTest.cpp(135,26): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\jdmag\Source\Repos\VSProjects\SFMLTest\SFMLTest\SFMLTest.cpp(144,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jdmag\Source\Repos\VSProjects\SFMLTest\SFMLTest\SFMLTest.cpp(144,27): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  SFMLTest.vcxproj -> C:\Users\jdmag\Source\Repos\VSProjects\SFMLTest\x64\Debug\SFMLTest.exe

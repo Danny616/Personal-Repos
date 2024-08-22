@@ -1,0 +1,3 @@
+/Users/jorgedanielmagana/Documents/Repos/CLionProjects/CS413_HW3_2/cmake-build-debug/CMakeFiles/CS413_HW3.dir
+/Users/jorgedanielmagana/Documents/Repos/CLionProjects/CS413_HW3_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jorgedanielmagana/Documents/Repos/CLionProjects/CS413_HW3_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

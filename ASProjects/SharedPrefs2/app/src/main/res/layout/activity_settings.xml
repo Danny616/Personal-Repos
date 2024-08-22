@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    tools:context=".SettingsActivity">
+
+    <ToggleButton
+        android:id="@+id/toggleCount"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Change Count"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"/>
+
+    <EditText
+        android:id="@+id/countValue"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:hint="Enter Count"
+        android:inputType="number"
+        app:layout_constraintTop_toBottomOf="@+id/toggleCount"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"/>
+
+    <ToggleButton
+        android:id="@+id/toggleColor"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Change Background Color"
+        app:layout_constraintTop_toBottomOf="@+id/countValue"
+        app:layout_constraintStart_toStartOf="parent"/>
+
+    <Spinner
+        android:id="@+id/colorSpinner"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toBottomOf="@+id/toggleColor"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"/>
+
+    <Button
+        android:id="@+id/saveButton"
+        style="@style/AppTheme.Button"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="Save"
+        app:layout_constraintTop_toBottomOf="@+id/colorSpinner"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/resetButton"/>
+
+    <Button
+        android:id="@+id/resetButton"
+        style="@style/AppTheme.Button"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="Reset"
+        app:layout_constraintTop_toBottomOf="@+id/colorSpinner"
+        app:layout_constraintStart_toEndOf="@+id/saveButton"
+        app:layout_constraintEnd_toEndOf="parent"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

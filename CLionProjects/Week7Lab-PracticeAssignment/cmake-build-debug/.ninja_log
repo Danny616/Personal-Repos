@@ -1,0 +1,7 @@
+# ninja log v5
+9	1360	6877363542260369	CMakeFiles/Week7Lab_PracticeAssignment.dir/bubble.cpp.obj	6b41e0c6f15e96cb
+12	1296	6877355203733096	CMakeFiles/Week7Lab_PracticeAssignment.dir/main.cpp.obj	50fc94cdb1de24bd
+1642	1813	6877381032772968	Week7Lab_PracticeAssignment.exe	e0fc74c9f6d37187
+1	1639	6877381031082854	CMakeFiles/Week7Lab_PracticeAssignment.dir/binary.cpp.obj	3c6f13446e3e5628
+2	303	6877382785556061	build.ninja	281a68d6d8ee7199
+8	1095	6877373898543213	CMakeFiles/Week7Lab_PracticeAssignment.dir/linear.cpp.obj	a16aceb812069691

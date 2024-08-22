@@ -1,0 +1,3 @@
+D:/My Drive/Shared Storage/CLionProjects/Week13Lab-PracticeAssignment/cmake-build-debug/CMakeFiles/Week13Lab_PracticeAssignment.dir
+D:/My Drive/Shared Storage/CLionProjects/Week13Lab-PracticeAssignment/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/My Drive/Shared Storage/CLionProjects/Week13Lab-PracticeAssignment/cmake-build-debug/CMakeFiles/rebuild_cache.dir
